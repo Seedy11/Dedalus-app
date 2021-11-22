@@ -1,0 +1,147 @@
+.App {
+  text-align: center;
+}
+
+.nav_menu {
+  background-color: #088F8F;
+  color: white;
+  font-weight: bold;
+  font-size: large;
+  font-family: 'Courier New', Courier, monospace;
+  padding: 2px 15px;
+  text-align: right;
+  position: relative;
+  width: 100%;
+}
+.nav_menu a {
+  color:white;
+  text-decoration: none;
+  padding: 1px 16px;
+ 
+
+  
+}
+.nav_menu h2 {
+  text-align: left;
+   display: block;
+   color: White;
+}
+.nav_menu a:hover {
+  color:black;
+  font-size: 1.3rem;
+  
+}
+
+
+h2 {
+  color:#088F8F;
+  font-family:'Courier New', Courier, monospace;
+  font-weight:bold ;
+}
+p {
+  
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 1.2rem;
+  font-style: italic;
+  color: #088F8F;
+
+}
+
+
+@media screen and (max-width: 768px){
+  .nav_menu {
+     margin: auto;
+     text-align: left;
+     padding: 20px 20px;
+  }
+  #home img {
+    height: 300px;
+    width: 100%;
+    padding-bottom: 0%;
+  }
+  #aboutus {
+    position: relative;
+    margin: auto;
+   float: none;
+  display: block;
+  }
+  #split {
+    height: 100%;
+    
+  }
+  
+  .left {
+    left: 0;
+   
+  }
+  
+  .right {
+    right: 0;
+   
+  }
+  
+}
+.Home img {
+  max-height: 500px;
+  width: 100%;
+  padding-bottom: 0%;
+}
+.nav_menu li{
+  display: inline;
+}
+
+.input-form{
+  padding: 20px 10px;
+  color: #088F8F;
+  font-weight: bold;
+  font-size: large;
+}
+form {
+  padding-top: 70% ;
+  padding-bottom: 10%;
+}
+.Aboutus {
+  position: relative;
+  
+ 
+}
+
+.split {
+  height: 100%;
+  width: 50%;
+  position: absolute;
+  z-index: 0;
+  top: 100px;
+  overflow-y: hidden;
+   padding: 20% 10%; 
+   margin: 0;
+
+}
+
+.left {
+  left: 0;
+ 
+}
+
+.right {
+  right: 0;
+  
+}
+
+.centered {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+}
+
+.centered img {
+  width: 100%;
+  border-radius: 20%;
+}
+footer {
+  background-color: #088F8F;
+  color: white;
+  padding: 20px;
+}

@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/dedalus-app/static/css/main.81c49f09.chunk.css",
-    "main.js": "/dedalus-app/static/js/main.14ae3b78.chunk.js",
-    "main.js.map": "/dedalus-app/static/js/main.14ae3b78.chunk.js.map",
+    "main.css": "/dedalus-app/static/css/main.8d122490.chunk.css",
+    "main.js": "/dedalus-app/static/js/main.b0e3ecd9.chunk.js",
+    "main.js.map": "/dedalus-app/static/js/main.b0e3ecd9.chunk.js.map",
     "runtime-main.js": "/dedalus-app/static/js/runtime-main.d301b62f.js",
     "runtime-main.js.map": "/dedalus-app/static/js/runtime-main.d301b62f.js.map",
     "static/css/2.383c0125.chunk.css": "/dedalus-app/static/css/2.383c0125.chunk.css",
@@ -12,7 +12,7 @@
     "static/js/3.1f1014b0.chunk.js.map": "/dedalus-app/static/js/3.1f1014b0.chunk.js.map",
     "index.html": "/dedalus-app/index.html",
     "static/css/2.383c0125.chunk.css.map": "/dedalus-app/static/css/2.383c0125.chunk.css.map",
-    "static/css/main.81c49f09.chunk.css.map": "/dedalus-app/static/css/main.81c49f09.chunk.css.map",
+    "static/css/main.8d122490.chunk.css.map": "/dedalus-app/static/css/main.8d122490.chunk.css.map",
     "static/js/2.01ff8558.chunk.js.LICENSE.txt": "/dedalus-app/static/js/2.01ff8558.chunk.js.LICENSE.txt",
     "static/media/logo.6ce24c58.svg": "/dedalus-app/static/media/logo.6ce24c58.svg"
   },
@@ -20,7 +20,7 @@
     "static/js/runtime-main.d301b62f.js",
     "static/css/2.383c0125.chunk.css",
     "static/js/2.01ff8558.chunk.js",
-    "static/css/main.81c49f09.chunk.css",
-    "static/js/main.14ae3b78.chunk.js"
+    "static/css/main.8d122490.chunk.css",
+    "static/js/main.b0e3ecd9.chunk.js"
   ]
 }
